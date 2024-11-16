@@ -1,3 +1,4 @@
 To jest pierwsza linijka
 To jest druga linijka
 zmiana928
+To jest czwarta
